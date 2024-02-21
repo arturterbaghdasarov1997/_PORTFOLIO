@@ -22,7 +22,7 @@
                 'name' => 'Contact',
             ],
             [
-                'link' => 'https://drive.google.com/file/d/1wp1juNjFFHqBghsWTKE9P2zhkPFOuEkK/view?usp=sharing',
+                'link' => 'https://drive.google.com/file/d/1niQBfjgMT2U3V64vnV4VAb4K631rmqoC/view?usp=sharing',
                 'icon' => 'Assets/CV.png',
                 'name' => 'CV',
             ],
